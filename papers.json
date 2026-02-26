@@ -1,38 +1,11 @@
 [
     {
-        "id": 1,
-        "name": "SSLC Science Previous Year Question Paper",
-        "subject": "Science",
-        "description": "Karnataka SSLC science previous year board exam question paper with answer key",
-        "questionFile": "downloads/SSLC_Science_PreviousYear_Questions.pdf",
-        "answerFile": "downloads/SSLC_Science_PreviousYear_Answers.pdf",
-        "difficulty": "Intermediate"
-    },
-    {
-        "id": 2,
-        "name": "SSLC Science Model Question Paper",
-        "subject": "Science",
-        "description": "Practice model paper for SSLC science exam with complete solutions",
-        "questionFile": "downloads/SSLC_Science_Model_Questions.pdf",
-        "answerFile": "downloads/SSLC_Science_Model_Answers.pdf",
-        "difficulty": "Intermediate"
-    },
-    {
-        "id": 3,
-        "name": "SSLC Mathematics Previous Year Question Paper",
-        "subject": "Mathematics",
-        "description": "Karnataka SSLC mathematics previous year board exam paper with detailed solutions",
-        "questionFile": "downloads/SSLC_Maths_PreviousYear_Questions.pdf",
-        "answerFile": "downloads/SSLC_Maths_PreviousYear_Answers.pdf",
-        "difficulty": "Beginner"
-    },
-    {
         "id": 4,
         "name": "SSLC Mathematics Model Question Paper",
         "subject": "Mathematics",
         "description": "SSLC maths model paper with step-by-step solutions and important questions",
-        "questionFile": "downloads/SSLC_Maths_Model_Questions.pdf",
-        "answerFile": "downloads/SSLC_Maths_Model_Answers.pdf",
+        "questionFile": "downloads\/SSLC_Maths_Model_Questions.pdf",
+        "answerFile": "downloads\/SSLC_Maths_Model_Answers.pdf",
         "difficulty": "Intermediate"
     },
     {
@@ -40,35 +13,17 @@
         "name": "SSLC English Question Paper with Answer Key",
         "subject": "English",
         "description": "SSLC English previous year and model papers with answer key and explanations",
-        "questionFile": "downloads/SSLC_English_Questions.pdf",
-        "answerFile": "downloads/SSLC_English_Answers.pdf",
+        "questionFile": "downloads\/SSLC_English_Questions.pdf",
+        "answerFile": "downloads\/SSLC_English_Answers.pdf",
         "difficulty": "Beginner"
     },
     {
         "id": 6,
-        "name": "SSLC Social Science Question Paper",
-        "subject": "Social Science",
-        "description": "Karnataka SSLC social science board exam paper with solved answers",
-        "questionFile": "downloads/SSLC_SocialScience_Questions.pdf",
-        "answerFile": "downloads/SSLC_SocialScience_Answers.pdf",
-        "difficulty": "Intermediate"
-    },
-    {
-        "id": 7,
-        "name": "SSLC Preparatory Exam Question Paper - Science",
+        "name": "SSLC_2025_EXAM1_QP-83E_A",
         "subject": "Science",
-        "description": "Preparatory exam paper for SSLC science with answer keys for exam practice",
-        "questionFile": "downloads/SSLC_Preparatory_Science_Questions.pdf",
-        "answerFile": "downloads/SSLC_Preparatory_Science_Answers.pdf",
-        "difficulty": "Advanced"
-    },
-    {
-        "id": 8,
-        "name": "SSLC Preparatory Exam Question Paper - Mathematics",
-        "subject": "Mathematics",
-        "description": "SSLC maths preparatory paper with important questions and complete solutions",
-        "questionFile": "downloads/SSLC_Preparatory_Maths_Questions.pdf",
-        "answerFile": "downloads/SSLC_Preparatory_Maths_Answers.pdf",
-        "difficulty": "Advanced"
+        "description": "Download Question and Answer",
+        "questionFile": "downloads\/SSLC2025_EXAM1_QP - 83E_A.pdf",
+        "answerFile": "downloads\/2026 boards.pdf",
+        "difficulty": "Beginner"
     }
 ]
