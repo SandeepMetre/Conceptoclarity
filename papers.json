@@ -1,9 +1,18 @@
 [
     {
-        "id": 6,
-        "name": "SSLC_2025_EXAM1_QP-83E_A",
+        "id": 8,
+        "name": "SSLC 2026 Science 3rd preparatory",
         "subject": "Science",
-        "description": "Download Question and Answer",
+        "description": "The SSLC 2026 Science 3rd Preparatory Exam Answer Key provides accurate, question-wise solutions to help students evaluate their performance and estimate their scores.\r\nDownload Here",
+        "questionFile": "downloads\/83-E-Science_English_AN_27_02_2026.pdf",
+        "answerFile": "downloads\/3rd prepratory 2026.pdf",
+        "difficulty": "Beginner"
+    },
+    {
+        "id": 9,
+        "name": "SSLC 2025 Boards Paper 1",
+        "subject": "Science",
+        "description": "Download Question Paper and Answer Here ...",
         "questionFile": "downloads\/SSLC2025_EXAM1_QP - 83E_A.pdf",
         "answerFile": "downloads\/2026 boards.pdf",
         "difficulty": "Beginner"
